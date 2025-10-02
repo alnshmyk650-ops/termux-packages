@@ -1,5 +1,4 @@
-# termux-packages
-# تثبيت جميع اساسيات ترموكس  Install all the basics of Termux
+ تعطيلحسابانستا the basics of Termux
 
 
 # Installing
